@@ -5,7 +5,7 @@
 	"description": "Hide Sidebar Tabs for non-GMs",
 	"version": "0.1",
 	"minimumCoreVersion": "0.7",
-	"compatibleCoreVersion": "9.268",
+	"compatibleCoreVersion": "9",
 	"scripts": [ "hidesidebars.js" ],
 	"url": "https://github.com/NutritiousCookie/Hide-Sidebars",
 	"manifest": "https://github.com/NutritiousCookie/Hide-Sidebars/releases/latest/download/module.json",
