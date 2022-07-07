@@ -1,1 +1,13 @@
-
+{
+	"name": "hide-sidebars",
+	"title": "Hide Sidebar Tabs",
+	"author": "NutritiousCookie#8626",
+	"description": "Hide Sidebar Tabs for non-GMs",
+	"version": "0.1",
+	"minimumCoreVersion": "0.7",
+	"compatibleCoreVersion": "9.268",
+	"scripts": [ "hidesidebars.js" ],
+	"url": "https://github.com/NutritiousCookie/Hide-Sidebars",
+	"manifest": "https://github.com/NutritiousCookie/Hide-Sidebars/releases/latest/download/module.json",
+	"download": "https://github.com/Autmor/yourTurn/releases/latest/download/hide-sidebars.zip"
+}
