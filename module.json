@@ -3,7 +3,7 @@
 	"title": "Hide Sidebar Tabs",
 	"author": "NutritiousCookie#8626",
 	"description": "Hide Sidebar Tabs for non-GMs",
-	"version": "0.1",
+	"version": "1.1",
 	"minimumCoreVersion": "0.7",
 	"compatibleCoreVersion": "9",
 	"scripts": [ "hidesidebars.js" ],
