@@ -8,6 +8,6 @@
 	"compatibleCoreVersion": "9",
 	"scripts": [ "hidesidebars.js" ],
 	"url": "https://github.com/NutritiousCookie/Hide-Sidebars",
-	"manifest": "https://github.com/NutritiousCookie/Hide-Sidebars/releases/latest/download/module.json",
-	"download": "https://github.com/Autmor/yourTurn/releases/latest/download/hide-sidebars.zip"
+	"manifest": "https://raw.githubusercontent.com/NutritiousCookie/Hide-Sidebars/main/module.json",
+	"download": "https://github.com/NutritiousCookie/Hide-Sidebars/releases/latest/download/hide-sidebars.zip"
 }
