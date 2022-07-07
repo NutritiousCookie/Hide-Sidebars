@@ -9,5 +9,5 @@
 	"scripts": [ "hidesidebars.js" ],
 	"url": "https://github.com/NutritiousCookie/Hide-Sidebars",
 	"manifest": "https://raw.githubusercontent.com/NutritiousCookie/Hide-Sidebars/main/module.json",
-	"download": "https://github.com/NutritiousCookie/Hide-Sidebars/releases/latest/download/hide-sidebars.zip"
+	"download": "https://github.com/NutritiousCookie/Hide-Sidebars/archive/refs/tags/1.1.zip"
 }
